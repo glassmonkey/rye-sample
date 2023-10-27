@@ -31,6 +31,9 @@ numpy==1.26.1 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:dcfaf015b79d1f9f9c9fd0731a907407dc3e45769262d657d754c3a028586124 \
     --hash=sha256:e44ccb93f30c75dfc0c3aa3ce38f33486a75ec9abadabd4e59f114994a9c4617 \
     --hash=sha256:e509cbc488c735b43b5ffea175235cec24bbc57b227ef1acc691725beb230d1c
+packaging==23.2 ; python_version >= "3.10" and python_version < "3.13" \
+    --hash=sha256:048fb0e9405036518eaaf48a55953c750c11e1a1b68e0dd1a9d62ed0c092cfc5 \
+    --hash=sha256:8c491190033a9af7e1d931d0b5dacc2ef47509b34dd0de67ed209b5203fc88c7
 pandas==2.1.2 ; python_version >= "3.10" and python_version < "3.13" \
     --hash=sha256:021f09c15e1381e202d95d4a21ece8e7f2bf1388b6d7e9cae09dfe27bd2043d1 \
     --hash=sha256:02954e285e8e2f4006b6f22be6f0df1f1c3c97adbb7ed211c6b483426f20d5c8 \
